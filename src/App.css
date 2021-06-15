@@ -1,0 +1,10 @@
+.App {
+  min-height: 100vh;
+  /* background-color: #fcfeff; */
+  font-family: "Montserrat", sans-serif;
+  padding-top: 25px;
+  /* background-image: url('./assets/bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; */
+}
